@@ -21,7 +21,5 @@ This project is an F1 race strategy simulator written in Python. It models tire 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/f1-strategy-simulator.git
+git clone https://github.com/EnCroissant12/f1-strategy-simulator.git
 cd f1-strategy-simulator
-
-
